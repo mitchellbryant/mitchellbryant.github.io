@@ -8,7 +8,7 @@
 <body>
 	<header>
 		<div id="logo">
-					<a href="home" title="Home"><img id="melogo" src="https://vectr.com/matsuke/dBPNMjX7S.svg?width=50&height=50&select=dBPNMjX7Spage0"> </a>
+					<a href="index.html" title="Home"><img id="melogo" src="https://vectr.com/matsuke/dBPNMjX7S.svg?width=50&height=50&select=dBPNMjX7Spage0"> </a>
 			</div>
 			<div id="menuToggle">
 				    <input type="checkbox" />
